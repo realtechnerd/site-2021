@@ -1,0 +1,163 @@
+[
+    {
+        "id": 22,
+        "title": "TaskBuddy Mobile",
+        "desc": "The official Android mobile port for TaskBuddy.",
+        "img": "24.png",
+        "link": "https://play.google.com/store/apps/details?id=io.rtn.taskbuddy"
+    },
+    {
+        "id": 21,
+        "title": "Lit Bot™",
+        "desc": "The perfect multi-purpose Discord bot by Lit™ Enterprises.",
+        "img": "23.png",
+        "link": "https://litty-bot.github.io/"
+    },
+    {
+        "id": 20,
+        "title": "Minetest Server List",
+        "desc": "A more modern server list for Minetest.",
+        "img": "22.png",
+        "link": "https://realtechnerd.github.io/mtlist"
+    }, 
+    {
+        "id": 19,
+        "title": "TaskBuddy Todo List",
+        "desc": "A simple Todo List app made with React and Firebase.",
+        "img": "21.png",
+        "link": "https://realtechnerd.github.io/taskbuddy"
+    }, 
+    {
+        "id": 18,
+        "title": "World Countries",
+        "desc": "All of the world's countries, all in one place.",
+        "img": "20.png",
+        "link": "https://realtechnerd.github.io/countries"
+    }, 
+    {
+        "id": 17,
+        "title": "JobRecover",
+        "desc": "A web app made for HackTJ 7.5 and designed to connect employers to the unemployed, during difficult times. Thanks to Sritan and Advaith for making this project possible.",
+        "img": "19.png",
+        "link": "https://realtechnerd.github.io/job-recover-client"
+    },  
+    {
+        "id": 16,
+        "title": "Astronomy Picture of the Day",
+        "desc": "An interesting Astronomy picture and explanation each day.",
+        "img": "18.png",
+        "link": "https://realtechnerd.github.io/astropicoftheday"
+    },  
+    {
+        "id": 15,
+        "title": "Honestly, I'm tired of it.",
+        "desc": "A project I made to show my support for equality.",
+        "img": "16.png",
+        "link": "https://realtechnerd.github.io/VR-Projects/blacklivesmatter/index.html"
+    },
+    {
+        "id": 14,
+        "title": "Flower of Life",
+        "desc": "A small Flower of Life made in A-Frame.",
+        "img": "15.png",
+        "link": "https://realtechnerd.github.io/VR-Projects/floweroflife/index.html"
+    },
+    {
+        "id": 13,
+        "title": "Simple 3D Lego Brick",
+        "desc": "This is a simple 3D lego brick made in A-Frame, a web framework for VR. I'm currently learning this framework.",
+        "img": "14.png",
+        "link": "https://realtechnerd.github.io/VR-Projects/legobrick/index.html"
+    },
+    {
+        "id": 12,
+        "title": "Magic 8 Ball",
+        "desc": "A simple Magic 8 Ball recreated on the web. Credits to my friend Advaith for the inspiration.",
+        "img": "13.png",
+        "link": "https://realtechnerd.github.io/magic8ball/"
+    },
+    {
+        "id": 11,
+        "title": "Github User Lookup",
+        "desc": "Search for a Github user and get some information. Created using the Github API.",
+        "img": "12.png",
+        "link": "https://realtechnerd.github.io/githubuser/"
+    },
+    {
+        "id": 10,
+        "title": "Weather App",
+        "desc": "This is a Weather App made in React.js and Pure CSS.",
+        "img": "11.png",
+        "link": "https://realtechnerd.github.io/weather/"
+    },
+    {
+        "id": 9,
+        "title": "TaskBuddy",
+        "desc": "A simple To Do List app made in React. This project still receives updates.",
+        "img": "10.png",
+        "link": "https://realtechnerd.github.io/reacttodolist/"
+    },
+    {
+        "id": 8,
+        "title": "Multi Twitter Feed",
+        "desc": "View Multi Twitter Feeds in one page",
+        "img": "9.png",
+        "link": "https://realtechnerd.github.io/multitwitter/"
+    },
+    {
+        "id": 7,
+        "title": "Simple Mad Lib",
+        "desc": "A Simple Mad Lib in React.js",
+        "img": "8.png",
+        "link": "https://realtechnerd.github.io/simplereactmadlib/"
+    },
+    {
+        "id": 6,
+        "title": "Simple Screen Saver",
+        "desc": "A super simple screensaver made in React.js. Thinking of making this the website's screen saver.",
+        "img": "7.png",
+        "link": "https://realtechnerd.github.io/simplescreensaver/"
+    },
+    {
+        "id": 5,
+        "title": "Random Web Stuff",
+        "desc": "A website that's filled with random web stuff, lol.",
+        "img": "6.png",
+        "link": "https://realtechnerd.github.io/randomwebstuff/index.html"
+    },
+    {
+        "id": 4,
+        "title": "Super Simple Calculator",
+        "desc": "It's a super simple calculator, not much to explain!",
+        "img": "5.png",
+        "link": "https://realtechnerd.github.io/supersimplecalculator"
+    },
+    {
+        "id": 3,
+        "title": "Climate Change Website",
+        "desc": "A rushed website that includes a bunch of articles related to Climate Change. It was for a hackathon.",
+        "img": "4.png",
+        "link": "https://realtechnerd.github.io/climatechange"
+    },
+    {
+        "id": 2,
+        "title": "To Do List App",
+        "desc": "A simple To Do List app made in HTML, CSS, and Javascript.",
+        "img": "3.png",
+        "link": "https://realtechnerd.github.io/todolist"
+    },
+    {
+        "id": 1,
+        "title": "Country in Which Continent",
+        "desc": "Enter a country, and the app will return the corresponding continent.",
+        "img": "2.png",
+        "link": "https://realtechnerd.github.io/CWC/"
+    },
+    {
+        "id": 0,
+        "title": "An Old Website",
+        "desc": "An archive of one of my first websites!",
+        "img": "1.png",
+        "link": "https://realtechnerd.github.io/OldWebsite1/"
+    }
+    ]
